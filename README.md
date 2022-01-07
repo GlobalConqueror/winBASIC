@@ -1,6 +1,6 @@
 # COMMODORE BASIC V2 FOR WINDOWS
 
-A Windows interpreter Commodore 64 BASIC v2
+A Windows interpreter for Commodore 64 BASIC v2
 
 If compiling for Windows use:
   Clang: clang++ -pthread -std=c++17 -o BASIC.exe BASIC.cpp
