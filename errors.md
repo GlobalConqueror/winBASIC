@@ -41,5 +41,3 @@ The program will print "HELLO" twice followed by a `?RETURN WITHOUT GOSUB ERROR 
 
 
 Where any of these errors occur in Windows is unknown to me (although presumably the memory access violation occurs in the same place as the segfault although it has different results) and I do not known where the `std:bad_alloc` error occurs, because I'm not bothered to find out
-
-[test]
